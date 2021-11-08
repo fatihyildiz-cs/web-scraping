@@ -90,4 +90,4 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # use this to get properly encoded characters
-# FEED_EXPORT_ENCODING = 'utf-8'
+FEED_EXPORT_ENCODING = 'utf-8'
